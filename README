@@ -1,3 +1,4 @@
 Practice in kaggle courses in data science and machine learning.
 
+To run project config use . ./bin/runvevn.sh && . ./bin/runjup.sh.
 Courses you can find here https://www.kaggle.com/learn.
