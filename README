@@ -1,4 +1,8 @@
 Practice in kaggle courses in data science and machine learning.
 
-To run project config use . ./bin/runvevn.sh && . ./bin/runjup.sh.
-Courses you can find here https://www.kaggle.com/learn.
+Courses - https://www.kaggle.com/learn.
+
+Project settings.
+/bin/runenv.sh - creates python virtual environment if not exists and then run it.
+/bin/runjup.sh - attach current venv to jup and run it.  
+To run project config use: . ./bin/runvevn.sh && . ./bin/runjup.sh
